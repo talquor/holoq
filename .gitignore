@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+.venv/
+.env
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+
+# Jupyter / data
+.ipynb_checkpoints/
+*.npy
+*.npz
+*.pt
+*.log
+
+
+# Editors
+.vscode/
+.idea/
+
+
+# OS
+.DS_Store

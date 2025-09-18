@@ -1,0 +1,9 @@
+pennylane>=0.37
+pennylane-lightning>=0.37
+numpy>=1.26
+torch>=2.3
+networkx>=3.2
+scipy>=1.11
+# optional for ROS2 bridge
+rclpy; platform_system=="Linux"
+std_msgs; platform_system=="Linux"
